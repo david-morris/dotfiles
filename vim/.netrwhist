@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/kunal/Projects/sandbox/src/crayfish-next/leidos-theme/app.py'
+let g:netrw_dirhist_2='/home/kunal/Projects/sandbox/src/crayfish-next/leidos-theme/bootswatch/swatchmaker'
+let g:netrw_dirhist_3='/home/kunal/.ansible'
+let g:netrw_dirhist_4='/home/kunal/Projects/ot-checkin/tests'
+let g:netrw_dirhist_5='/home/kunal/Projects/ot-checkin/ot_checkin/checkin'
+let g:netrw_dirhist_6='/home/kunal/Projects/sandbox/src/crayfish-next/bloodhound/.git'
+let g:netrw_dirhist_7='/home/kunal/Projects/sandbox/src/crayfish-next/crayfish-sandbox/provisioning/roles/webapp/vars'
+let g:netrw_dirhist_8='/home/kunal/Projects/gmu-ot/src/templates/layouts'
