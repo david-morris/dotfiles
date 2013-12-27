@@ -1,1 +1,0 @@
-/home/dmorris/.vim
